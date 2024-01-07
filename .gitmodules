@@ -1,0 +1,6 @@
+[submodule "uni-notes"]
+	path = uni-notes
+	url = https://github.com/balderholst/uni-notes
+[submodule "Noter"]
+	path = Noter
+	url = https://github.com/TheJoboReal/Noter
