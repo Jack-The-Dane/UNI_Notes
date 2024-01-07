@@ -22,8 +22,11 @@ Følgende procedure benyttes til design af digitale filtre ved brug af impuls in
 1. Bestem det analoge prototypefilters frekvensnormerede overføringsfunktion H(s).
 2. Partialbrøksopløs H(s) til 1. og 2. ordens overføringsfunktioner (maksimalt antal 2. ordens overføringsfunktioner).
 3. Denormer koefficienterne ki og polerne σi + jωi ved multiplikation med afskæringsfrekvensen eller centerfrekvensen.
-4. Bestem den digitale overføringsfunktions koefficienter.
-5. Implementer overføringsfunktionen som en parallelstruktur.
+$$H(z) = T \sum_{i=1}^{N}k_{i}\frac{z}{z - e^{s_{i}T}} = T \sum_{i=1}^{N}k_{i}\frac{1}{1 - e^{s_{i}T}z^{-1}}$$
+For 2.orden brøker, se Balders noter. (Transformation af 2. Ordens overføringsfunktion)
+1. Bestem den digitale overføringsfunktions koefficienter.
+
+2. Implementer overføringsfunktionen som en parallelstruktur.
 
 ### Eksempel 2. ordens Butterworth
 ![[Pasted image 20231102092807.png]]

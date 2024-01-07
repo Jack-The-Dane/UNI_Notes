@@ -15,7 +15,7 @@ Digitale IIR-filtre kan designes ved transformation af prototype-filtre i s-dom�
 ### Fremgangsmåde
 Et IIR-filter designes ved at følge proceduren
 1. Filtrets specifikationer opstilles
-2. Filtrets z-domæne overføringsfunktion opstilles
+2. Filtrets z-domæne overføringsfunktion opstilles. (Matched, Impulse Invariant eller Bilineær z-transformation benyttes.)
 3. Der vælges optimal realisationsstruktur
 4. Der fremstilles program til signalprocessor eller tegnes diagram for hardwareløsning
 

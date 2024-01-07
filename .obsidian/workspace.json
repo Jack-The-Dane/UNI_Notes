@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "818bf99e771baad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Computer arkitektur og operativsystemer/Bus Cycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f25bedafaccd8a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Computer arkitektur og operativsystemer/Optimization of microarchitecture design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90541c340b6a88be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Computer arkitektur og operativsystemer/Pipeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebe8257b84d24e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Signalbehandling/FIR Filtre/Design af FIR-filter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2683f2e938517f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
+                "file": "External/Balder Notes/Notes/Impule Inveriant z-transformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20f76277a7a87811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
+                "file": "UNI Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
+                "file": "UNI Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md"
+                "file": "UNI Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md"
               }
             }
           }
@@ -197,9 +161,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c2683f2e938517f5",
+  "active": "20f76277a7a87811",
   "lastOpenFiles": [
+    "UNI Notes/Signalbehandling/FIR Filtre/FIR Filtre.md",
+    "UNI Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md",
+    "UNI Notes/Signalbehandling/FIR Filtre/Design af FIR-filter.md",
     "UNI Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
+    "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
+    "UNI Notes/Signalbehandling/Fast Fourier Transform.md",
+    "UNI Notes/Signalbehandling/Tidsdiskret systemteori.md",
+    "External/Balder Notes/Notes/Impule Inveriant z-transformation.md",
+    "UNI Notes/Computer arkitektur og operativsystemer/Pipeline.md",
+    "UNI Notes/Computer arkitektur og operativsystemer/Optimization of microarchitecture design.md",
+    "UNI Notes/Computer arkitektur og operativsystemer/Bus Cycle.md",
     "UNI Notes/Signalbehandling/Bilineær z-transformation.md",
     "External/Kasper Noter/External/Kasper's Formelsamling",
     "External/Kasper Noter/External/Jacob's Notes",
@@ -234,16 +208,6 @@
     "External/Balder Notes/Notes/Velocity Curves.md",
     "External/Balder Notes/Notes/Vektorfunktioner.md",
     "External/Balder Notes/Notes/Vector Fields.md",
-    "External/Balder Notes/Notes/Vektorer.md",
-    "External/Balder Notes/Notes/Varmekapacitet.md",
-    "External/Balder Notes/Notes/Unit Sample.md",
-    "External/Balder Notes/Notes/Unified Process.md",
-    "External/Balder Notes/Notes/Ulige Funktioner.md",
-    "External/Balder Notes/Notes/UART Protocol.md",
-    "External/Balder Notes/Notes/Uegenlige Integraler.md",
-    "External/Balder Notes/Notes/Typer Henfald.md",
-    "External/Balder Notes/Notes/Types of Microcontrolers.md",
-    "External/Balder Notes/Notes/Tyngdekraften.md",
-    "External/Balder Notes/Notes/Transmission.md"
+    "External/Balder Notes/Notes/Vektorer.md"
   ]
 }
