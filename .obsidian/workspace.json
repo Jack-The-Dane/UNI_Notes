@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "b488bfee7d5ea343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formelsamling/Mat Formelsamling/Formelsamling Matematik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ebe8257b84d24e79",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
