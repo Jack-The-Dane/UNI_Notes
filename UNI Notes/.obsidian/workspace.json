@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "269b2bd03db423f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "73282880fade257e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d27124646287c9eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Signalbehandling/Impuls invariant z-transformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a160fff048021e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datakommunikation/Data Link Layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be358aaaa491124c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datakommunikation/SPI Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bfbcb097edb51c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datakommunikation/I2C Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3f114076421bdc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer arkitektur og operativsystemer/The micro-architecture level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ff79b048a901821",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb81ad779bf3730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac672ef9d33035a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f537dedebd74828",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d37d7ae21e6cd7af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "210337b8c093abbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e85f0c2fd52f77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d58f718cb0fbd45a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer arkitektur og operativsystemer/The micro-architecture level.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01ba8460ba3b8d78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer arkitektur og operativsystemer/The micro-architecture level.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea5776a6e16d38e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39efb60a7b1f71f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer arkitektur og operativsystemer/The micro-architecture level.md"
+              }
+            }
+          },
+          {
+            "id": "ea276beecabdcd03",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3f114076421bdc8",
+  "lastOpenFiles": [
+    "Computer arkitektur og operativsystemer/The critical-section problem.md",
+    "Computer arkitektur og operativsystemer/Optimization of microarchitecture design.md",
+    "Datakommunikation/CAN Bus protocol.md",
+    "Billeder/Pasted image 20231208091723.png",
+    "Billeder/Pasted image 20231208091703.png",
+    "Billeder/Pasted image 20231208091642.png",
+    "Billeder/Pasted image 20231208091513.png",
+    "Billeder/Pasted image 20231208091308.png",
+    "Billeder/Pasted image 20231208091017.png",
+    "Billeder/Pasted image 20231208085745.png",
+    "Billeder/Pasted image 20231208085606.png",
+    "Billeder/Pasted image 20231208085415.png",
+    "Billeder/Pasted image 20231208085219.png",
+    "Datakommunikation/Untitled 1.md",
+    "Datakommunikation/I2C Protocol.md",
+    "Datakommunikation/SPI Protocol.md",
+    "Datakommunikation/Data Link Layer.md",
+    "Datakommunikation/Transport layer protocols.md",
+    "Datakommunikation/Transport layer.md",
+    "Computer arkitektur og operativsystemer/The micro-architecture level.md",
+    "Signalbehandling/Bilineær z-transformation.md",
+    "Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
+    "Signalbehandling/Impuls invariant z-transformation.md",
+    "Signalbehandling/Diskret Fouriertransform.md",
+    "Matematik/Partial Differential Equations.md",
+    "Computer arkitektur og operativsystemer/ATmega128L - External memory.md",
+    "Computer arkitektur og operativsystemer/Bus Cycle.md",
+    "Computer arkitektur og operativsystemer/Address demultiplexer.md",
+    "Computer arkitektur og operativsystemer/Memory interface.md",
+    "Computer arkitektur og operativsystemer/Threads and concurrency.md",
+    "Signalbehandling/Elektroniske filtre.md",
+    "Signalbehandling/Filteroverføringsfunktioner.md",
+    "Signalbehandling/Z-transformation.md",
+    "Signalbehandling/Konstruktion af filtre.md",
+    "Signalbehandling/Filtertransformationer.md",
+    "Signalbehandling/Fast Fourier Transform.md",
+    "Matematik",
+    "Datakommunikation/Network Layer",
+    "Formelsamling/Mat Formelsamling/Formelsamling mat.pdf",
+    "Formelsamling/Mat Formelsamling/Screenshots",
+    "Formelsamling/Mat Formelsamling",
+    "Formelsamling",
+    "Computer arkitektur og operativsystemer",
+    "Datakommunikation",
+    "Signalbehandling"
+  ]
+}

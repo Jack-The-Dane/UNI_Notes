@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "517dae92a2555fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d808c7df6c8b7f16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "818bf99e771baad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI Notes/Computer arkitektur og operativsystemer/Bus Cycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f25bedafaccd8a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI Notes/Computer arkitektur og operativsystemer/Optimization of microarchitecture design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90541c340b6a88be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI Notes/Computer arkitektur og operativsystemer/Pipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b488bfee7d5ea343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formelsamling/Mat Formelsamling/Formelsamling Matematik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebe8257b84d24e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI Notes/Signalbehandling/FIR Filtre/Design af FIR-filter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2683f2e938517f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d46f08ffe467c34",
+    "type": "split",
+    "children": [
+      {
+        "id": "dffc213156cf57cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df43d71d6823e363",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0eb93b410e3eef1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d00cce0dfa9d0bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "7dcdeef0f27ac30e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2c70210cffb4eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65075530cced9f1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f03e25e0df74989",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "975e2d61c18a45b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72fc13bc7b234135",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-matrix:Obsidian Matrix": false
+    }
+  },
+  "active": "c2683f2e938517f5",
+  "lastOpenFiles": [
+    "Notes",
+    "UNI Notes/Signalbehandling/Bilineær z-transformation.md",
+    "UNI Notes/Signalbehandling/FIR Filtre/FIR Filtre.md",
+    "UNI Notes/Signalbehandling/FIR Filtre/FIR Frekvensresponsanalyse.md",
+    "UNI Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md",
+    "UNI Notes/Signalbehandling/FIR Filtre/Design af FIR-filter.md",
+    "UNI Notes/Signalbehandling/Digitale realisationsstrukturer (Digitale filtre).md",
+    "UNI Notes/Signalbehandling/Filteroverføringsfunktioner.md",
+    "UNI Notes/Signalbehandling/Filtertransformationer.md",
+    "UNI Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
+    "UNI Notes/Billeder/Pasted image 20231106214634.png",
+    "UNI Notes/Signalbehandling/Diskret Fouriertransform.md",
+    "UNI Notes/Signalbehandling/Elektroniske filtre.md",
+    "UNI Notes/Signalbehandling/Fast Fourier Transform.md",
+    "UNI Notes/Signalbehandling/Fejlmuligheder i FFT.md",
+    "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
+    "UNI Notes/Signalbehandling/Konstruktion af filtre.md",
+    "UNI Notes/Signalbehandling/Rekonstruktion.md",
+    "UNI Notes/Signalbehandling/Sampling.md",
+    "UNI Notes/Signalbehandling/Sekvenser.md",
+    "UNI Notes/Signalbehandling/Tidsdiskret systemteori.md",
+    "UNI Notes/Signalbehandling/Vinduesfunktioner.md",
+    "UNI Notes/Signalbehandling/Z-transformation.md",
+    "UNI Notes/Matematik/Laplace transformation tabel.md",
+    "UNI Notes/Matematik/D'Alembert solution to the Wave Equation.md",
+    "UNI Notes/Matematik/Wave equation - Separation of variables.md",
+    "UNI Notes/Matematik/Untitled.md",
+    "Formelsamling/Mat Formelsamling/Formelsamling mat.pdf",
+    "UNI Notes/Billeder/Pasted image 20231201100247.png",
+    "UNI Notes/Billeder/Pasted image 20231201100225.png",
+    "UNI Notes/Billeder/Pasted image 20231201095615.png",
+    "UNI Notes/Billeder/Pasted image 20231201094455.png",
+    "UNI Notes/Billeder/Pasted image 20231201094429.png",
+    "UNI Notes/Billeder/Pasted image 20231201094020.png",
+    "UNI Notes/Billeder/Pasted image 20231201093925.png",
+    "UNI Notes/Billeder/Pasted image 20231201093613.png",
+    "UNI Notes/Billeder/Pasted image 20231201093446.png",
+    "UNI Notes/Signalbehandling/FIR Filtre",
+    "UNI Notes/Billeder/Pasted image 20231106223452.png~RF18548d47.TMP",
+    "UNI Notes/Billeder/Pasted image 20231106222445.png~RF18548b33.TMP",
+    "UNI Notes/Billeder/Pasted image 20231027095651.png~RF18547e52.TMP",
+    "UNI Notes/Billeder/Pasted image 20231027093848.png~RF18547cad.TMP",
+    "UNI Notes/Billeder/Pasted image 20231011224130.png~RF185476f0.TMP",
+    "UNI Notes/Billeder/Pasted image 20231003141335.png~RF185475f6.TMP",
+    "UNI Notes/Billeder/Pasted image 20230929100031.png~RF18546cce.TMP",
+    "Computer arkitektur og operativsystemer"
+  ]
+}
