@@ -30,11 +30,13 @@ Læg mærke til at bode-plottene ikke er ens. Foldningsfrekvensen $f_o$ har flyt
 Følgende procedure benyttes til design af digitale filtre ved brug af matched z-transformation
 1. Bestem det analoge prototypefilters frekvensnormerede og faktoriserede overføringsfunktion H(s).
 2. Bestem de analoge frekvensnormerede poler og nulpunkter.
-3. Bestem de denormerede poler og nulpunkter.
+3. Bestem de denormerede poler og nulpunkter. (Gang poler og nulpunkter med cutoff eller centerfrekvens (rad/s))
 4. Bestem den digitale overføringsfunktions koefficienter.
-5. Implementer overføringsfunktionen som en kaskadestruktur.
+5. Opskriv overføringsfunktionen og gang en konstant på, for at få konstant DC-forstærkning. Find konstanten med ligningen:
+$$H(s) \vert _{s=0} = H(z) \vert _{z=1}$$
+7. Implementer overføringsfunktionen som en kaskadestruktur.
 
-Ved matched z-transformation overføres prototypefiltrets poler og nulpunkter direkte til z-domæne ved brug af formlen
+Ved matched z-transformation overføres prototypefiltrets poler og nulpunkter direkte til z-domæne ved brug af formlen. (Poler og nulpunkter sættes ind for s i formlen)
 $$z=e^{sT}$$
 hvilket også kan skrives (Imaginær akse):
 $$z=e^{j \omega T}$$

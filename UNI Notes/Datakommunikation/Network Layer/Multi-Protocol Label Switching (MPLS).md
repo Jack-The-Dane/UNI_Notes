@@ -7,13 +7,13 @@ These routers can then replace conventional routers.
 **A new header**
 To be able to simulate connection-oriented switching using protocols such as IP, you need to add an extra field to the packet that contains the label.
 
->[[IPV4]]does not allow this extension. (but IPv6 does!)
+>[[UNI Notes/Datakommunikation/Network Layer/IPV4]]does not allow this extension. (but IPv6 does!)
 
 
 ***
 #### The Solution
 Encapsulate the IPv4 datagram in an MPLS packet.
-Here MPLS will simulate a layer between the [[Data Link Layer]] Layer and the [[Network Layer]].
+Here MPLS will simulate a layer between the [[External/Balder Notes/Notes/Data Link Layer]] Layer and the [[UNI Notes/Datakommunikation/Network Layer/Network Layer]].
 
 The whole IP packet is encapsulated as the payload in an MPLS packet and an MPLS header is added.
 ![[Pasted image 20231024125159.png]]

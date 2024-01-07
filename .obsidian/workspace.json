@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Bilineær z-transformation.md",
+                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Bilineær z-transformation.md",
+                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Bilineær z-transformation.md",
+                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Bilineær z-transformation.md"
+                "file": "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md"
               }
             }
           }
@@ -192,56 +192,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-matrix:Obsidian Matrix": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "c2683f2e938517f5",
   "lastOpenFiles": [
-    "External/Noter/External/Kasper's Formelsamling",
-    "External/Noter/External/Jacob's Notes",
-    "External/Noter/External/Balder",
-    "External/Noter/External",
-    "External/Noter/SVG fra Remarkable/interactions page 4.svg",
-    "External/Noter/SVG fra Remarkable/interactions page 2.svg",
-    "External/Noter/SVG fra Remarkable/interactions page 5.svg",
-    "External/Noter/SVG fra Remarkable/interactions page 3.svg",
-    "External/Noter/SVG fra Remarkable/interactions page 1.svg",
-    "External/Noter/SVG fra Remarkable/Drawing 2023-09-29 23.38.23.excalidraw.md",
-    "External/Noter/SVG fra Remarkable",
-    "External/Noter/Excalidraw/Drawing 2024-01-03 12.17.25.excalidraw.svg",
-    "External/Noter/Excalidraw/Drawing 2024-01-03 12.17.25.excalidraw.md",
-    "External/Noter/Excalidraw/Drawing 2024-01-02 20.35.25.excalidraw.md",
-    "External/Noter/Excalidraw",
-    "External/uni-notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/2022-loesning.xopp",
-    "External/uni-notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/reeksamen-2021-loesning.xopp",
-    "External/uni-notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/reeksamen-2021-loesning.pdf",
-    "External/uni-notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/2020-loesning.xopp",
-    "External/uni-notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/2021-loesning.pdf",
-    "External/uni-notes/Images/types-of-kinematic-axis.png",
-    "External/uni-notes/Images/uart.png",
-    "External/uni-notes/Images/tangent plane.png",
-    "External/uni-notes/Images/twos compliment.png",
-    "External/uni-notes/Templates/subject.md",
-    "External/uni-notes/Templates/Insert Title.md",
-    "External/uni-notes/Notes/Ækvivalente Kredsløb.md",
-    "External/uni-notes/Notes/z-transformation.md",
-    "External/uni-notes/Notes/Window Functions.md",
-    "External/uni-notes/Notes/Viskositet.md",
-    "External/uni-notes/Notes/Vinkelfrekvens.md",
-    "External/uni-notes/Notes/Velocity Curves.md",
-    "External/uni-notes/Notes/Vektorfunktioner.md",
-    "External/uni-notes/Notes/Vector Fields.md",
-    "External/uni-notes/Notes/Vektorer.md",
-    "External/uni-notes/Notes/Varmekapacitet.md",
-    "External/uni-notes/Notes/Unit Sample.md",
-    "External/uni-notes/Notes/Unified Process.md",
-    "External/uni-notes/Notes/Ulige Funktioner.md",
-    "External/uni-notes/Notes/UART Protocol.md",
-    "External/uni-notes/Notes/Uegenlige Integraler.md",
-    "External/uni-notes/Notes/Typer Henfald.md",
-    "External/uni-notes/Notes/Types of Microcontrolers.md",
-    "External/uni-notes/Notes/Tyngdekraften.md",
-    "External/uni-notes/Notes/Transmission.md",
-    "External/uni-notes/Notes/Tyngdeaccelerationen.md"
+    "UNI Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
+    "UNI Notes/Signalbehandling/Bilineær z-transformation.md",
+    "External/Kasper Noter/External/Kasper's Formelsamling",
+    "External/Kasper Noter/External/Jacob's Notes",
+    "External/Kasper Noter/External/Balder",
+    "External/Kasper Noter/External",
+    "External/Kasper Noter/SVG fra Remarkable/interactions page 4.svg",
+    "External/Kasper Noter/SVG fra Remarkable/interactions page 2.svg",
+    "External/Kasper Noter/SVG fra Remarkable/interactions page 5.svg",
+    "External/Kasper Noter/SVG fra Remarkable/interactions page 3.svg",
+    "External/Kasper Noter/SVG fra Remarkable/interactions page 1.svg",
+    "External/Kasper Noter/SVG fra Remarkable/Drawing 2023-09-29 23.38.23.excalidraw.md",
+    "External/Kasper Noter/SVG fra Remarkable",
+    "External/Kasper Noter/Excalidraw/Drawing 2024-01-03 12.17.25.excalidraw.svg",
+    "External/Kasper Noter/Excalidraw/Drawing 2024-01-03 12.17.25.excalidraw.md",
+    "External/Kasper Noter/Excalidraw/Drawing 2024-01-02 20.35.25.excalidraw.md",
+    "External/Kasper Noter/Excalidraw",
+    "External/Balder Notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/2022-loesning.xopp",
+    "External/Balder Notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/reeksamen-2021-loesning.xopp",
+    "External/Balder Notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/reeksamen-2021-loesning.pdf",
+    "External/Balder Notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/2020-loesning.xopp",
+    "External/Balder Notes/Images/types-of-kinematic-axis.png",
+    "External/Balder Notes/Images/uart.png",
+    "External/Balder Notes/Images/tangent plane.png",
+    "External/Balder Notes/Images/twos compliment.png",
+    "External/Balder Notes/Templates/subject.md",
+    "External/Balder Notes/Templates/Insert Title.md",
+    "External/Balder Notes/Notes/Ækvivalente Kredsløb.md",
+    "External/Balder Notes/Notes/z-transformation.md",
+    "External/Balder Notes/Notes/Window Functions.md",
+    "External/Balder Notes/Notes/Viskositet.md",
+    "External/Balder Notes/Notes/Vinkelfrekvens.md",
+    "External/Balder Notes/Notes/Velocity Curves.md",
+    "External/Balder Notes/Notes/Vektorfunktioner.md",
+    "External/Balder Notes/Notes/Vector Fields.md",
+    "External/Balder Notes/Notes/Vektorer.md",
+    "External/Balder Notes/Notes/Varmekapacitet.md",
+    "External/Balder Notes/Notes/Unit Sample.md",
+    "External/Balder Notes/Notes/Unified Process.md",
+    "External/Balder Notes/Notes/Ulige Funktioner.md",
+    "External/Balder Notes/Notes/UART Protocol.md",
+    "External/Balder Notes/Notes/Uegenlige Integraler.md",
+    "External/Balder Notes/Notes/Typer Henfald.md",
+    "External/Balder Notes/Notes/Types of Microcontrolers.md",
+    "External/Balder Notes/Notes/Tyngdekraften.md",
+    "External/Balder Notes/Notes/Transmission.md"
   ]
 }
