@@ -10,3 +10,9 @@ Gennemgå følgende proces:
 Et lavpas filter kan transformeres til højpas ved:![[Pasted image 20230913193433.png]]
 $$H_{hp}(s)=H_{lp}(\frac{1}{s})$$
 ![[Pasted image 20230913193840.png]]
+## Lavpas til højpas
+![[Pasted image 20240108112714.png]]
+## Lavpas til båndpas
+![[Pasted image 20240108112853.png]]
+## Lavpas til båndstop
+![[Pasted image 20240108112934.png]]

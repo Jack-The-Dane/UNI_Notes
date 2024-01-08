@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Elektroniske filtre.md",
+                "file": "UNI Notes/Signalbehandling/Filtertransformationer.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Elektroniske filtre.md",
+                "file": "UNI Notes/Signalbehandling/Filtertransformationer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Elektroniske filtre.md",
+                "file": "UNI Notes/Signalbehandling/Filtertransformationer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Elektroniske filtre.md"
+                "file": "UNI Notes/Signalbehandling/Filtertransformationer.md"
               }
             }
           }
@@ -163,6 +163,10 @@
   },
   "active": "20f76277a7a87811",
   "lastOpenFiles": [
+    "UNI Notes/Billeder/Pasted image 20240108112934.png",
+    "UNI Notes/Billeder/Pasted image 20240108112853.png",
+    "UNI Notes/Billeder/Pasted image 20240108112714.png",
+    "UNI Notes/Signalbehandling/Elektroniske filtre.md",
     "UNI Notes/Signalbehandling/Filtertransformationer.md",
     "UNI Notes/Signalbehandling/Sekvenser.md",
     "UNI Notes/Signalbehandling/Filteroverføringsfunktioner.md",
@@ -201,13 +205,9 @@
     "External/Balder Notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/2020-loesning.xopp",
     "External/Balder Notes/Images/types-of-kinematic-axis.png",
     "External/Balder Notes/Images/uart.png",
-    "External/Balder Notes/Images/tangent plane.png",
-    "External/Balder Notes/Images/twos compliment.png",
     "External/Balder Notes/Templates/subject.md",
     "External/Balder Notes/Templates/Insert Title.md",
     "External/Balder Notes/Notes/Ækvivalente Kredsløb.md",
-    "External/Balder Notes/Notes/z-transformation.md",
-    "External/Balder Notes/Notes/Window Functions.md",
-    "External/Balder Notes/Notes/Viskositet.md"
+    "External/Balder Notes/Notes/z-transformation.md"
   ]
 }
