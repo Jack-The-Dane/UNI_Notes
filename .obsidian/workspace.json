@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md",
+                "file": "UNI Notes/Signalbehandling/Elektroniske filtre.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md",
+                "file": "UNI Notes/Signalbehandling/Elektroniske filtre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md",
+                "file": "UNI Notes/Signalbehandling/Elektroniske filtre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md"
+                "file": "UNI Notes/Signalbehandling/Elektroniske filtre.md"
               }
             }
           }
@@ -163,10 +163,14 @@
   },
   "active": "20f76277a7a87811",
   "lastOpenFiles": [
+    "UNI Notes/Signalbehandling/Filtertransformationer.md",
+    "UNI Notes/Signalbehandling/Sekvenser.md",
+    "UNI Notes/Signalbehandling/Filteroverføringsfunktioner.md",
+    "UNI Notes/Signalbehandling/Diskret Fouriertransform.md",
+    "UNI Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md",
     "UNI Notes/Signalbehandling/FIR Filtre/FIR Frekvensresponsanalyse.md",
     "UNI Notes/Signalbehandling/FIR Filtre/FIR Filtre.md",
     "UNI Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
-    "UNI Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md",
     "UNI Notes/Signalbehandling/FIR Filtre/Design af FIR-filter.md",
     "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
     "UNI Notes/Signalbehandling/Fast Fourier Transform.md",
@@ -204,10 +208,6 @@
     "External/Balder Notes/Notes/Ækvivalente Kredsløb.md",
     "External/Balder Notes/Notes/z-transformation.md",
     "External/Balder Notes/Notes/Window Functions.md",
-    "External/Balder Notes/Notes/Viskositet.md",
-    "External/Balder Notes/Notes/Vinkelfrekvens.md",
-    "External/Balder Notes/Notes/Velocity Curves.md",
-    "External/Balder Notes/Notes/Vektorfunktioner.md",
-    "External/Balder Notes/Notes/Vector Fields.md"
+    "External/Balder Notes/Notes/Viskositet.md"
   ]
 }
