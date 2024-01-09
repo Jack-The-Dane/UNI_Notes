@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "517dae92a2555fc4",
+    "id": "d7e6e5fa13bba2a0",
     "type": "split",
     "children": [
       {
-        "id": "d808c7df6c8b7f16",
+        "id": "12876c1a6be93e36",
         "type": "tabs",
         "children": [
           {
-            "id": "c2683f2e938517f5",
+            "id": "cb0329fb963ce16c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "External/Balder Notes/Notes/Impule Inveriant z-transformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20f76277a7a87811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Signalbehandling/Filtertransformationer.md",
+                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5d46f08ffe467c34",
+    "id": "cdc89c7a6988f931",
     "type": "split",
     "children": [
       {
-        "id": "dffc213156cf57cb",
+        "id": "0ae9d2c3d4316ac9",
         "type": "tabs",
         "children": [
           {
-            "id": "df43d71d6823e363",
+            "id": "2c3cb76b3428a06c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "0eb93b410e3eef1d",
+            "id": "cabc9b754f9f12b2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "5d00cce0dfa9d0bd",
+            "id": "fffb089d7b30d714",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 300
   },
   "right": {
-    "id": "7dcdeef0f27ac30e",
+    "id": "b960a55660ffc2a4",
     "type": "split",
     "children": [
       {
-        "id": "1e2c70210cffb4eb",
+        "id": "6e99ec9adabf787b",
         "type": "tabs",
         "children": [
           {
-            "id": "65075530cced9f1c",
+            "id": "67038b887f321a55",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Filtertransformationer.md",
+                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "5f03e25e0df74989",
+            "id": "238ed9127fb3becb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Filtertransformationer.md",
+                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "975e2d61c18a45b3",
+            "id": "61f9bef7adbcd8dc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "72fc13bc7b234135",
+            "id": "ed54dd75ef260f65",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Signalbehandling/Filtertransformationer.md"
+                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md"
               }
             }
           }
@@ -157,57 +144,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-matrix:Obsidian Matrix": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "20f76277a7a87811",
+  "active": "cb0329fb963ce16c",
   "lastOpenFiles": [
+    "UNI Notes/Datakommunikation/Network Layer/UDP (User Datagram Protocol).md",
+    "UNI Notes/Datakommunikation/Network Layer/TCP (Transmission Control Protocol).md",
+    "UNI Notes/Datakommunikation/Network Layer/Routing and forwarding.md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Security.md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Quality of Service (QoS).md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Perfomance.md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Layer.md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Forwarding mechanism.md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Flow Control.md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Error Control.md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Connection-oriented service.md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Congestion control.md",
+    "UNI Notes/Datakommunikation/Network Layer/Network Address Translation NAT.md",
+    "UNI Notes/Datakommunikation/Network Layer/Multi-Protocol Label Switching (MPLS).md",
+    "UNI Notes/Datakommunikation/Network Layer/Logical Addressing.md",
+    "UNI Notes/Datakommunikation/Network Layer/IPV4.md",
+    "UNI Notes/Datakommunikation/Network Layer/IPV4 Datagrams.md",
+    "UNI Notes/Datakommunikation/Network Layer/IPV4 Network Addressing.md",
+    "UNI Notes/Datakommunikation/Network Layer/IPV4 Cecksum.md",
+    "UNI Notes/Datakommunikation/Network Layer/IPV4 Addressing.md",
+    "UNI Notes/Datakommunikation/Network Layer/ICMPv4.md",
+    "UNI Notes/Datakommunikation/Network Layer/ICMPv4 Query messages.md",
+    "UNI Notes/Datakommunikation/Network Layer/Hierarchical Routing.md",
+    "UNI Notes/Datakommunikation/Network Layer/HOP and TTL.md",
+    "UNI Notes/Datakommunikation/Network Layer/Fragmentation.md",
+    "UNI Notes/Datakommunikation/Network Layer/Geographical Routing.md",
     "UNI Notes/Billeder/Pasted image 20240108112934.png",
     "UNI Notes/Billeder/Pasted image 20240108112853.png",
     "UNI Notes/Billeder/Pasted image 20240108112714.png",
-    "UNI Notes/Signalbehandling/Elektroniske filtre.md",
-    "UNI Notes/Signalbehandling/Filtertransformationer.md",
-    "UNI Notes/Signalbehandling/Sekvenser.md",
-    "UNI Notes/Signalbehandling/Filteroverføringsfunktioner.md",
-    "UNI Notes/Signalbehandling/Diskret Fouriertransform.md",
-    "UNI Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md",
-    "UNI Notes/Signalbehandling/FIR Filtre/FIR Frekvensresponsanalyse.md",
-    "UNI Notes/Signalbehandling/FIR Filtre/FIR Filtre.md",
-    "UNI Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
-    "UNI Notes/Signalbehandling/FIR Filtre/Design af FIR-filter.md",
-    "UNI Notes/Signalbehandling/Impuls invariant z-transformation.md",
-    "UNI Notes/Signalbehandling/Fast Fourier Transform.md",
-    "UNI Notes/Signalbehandling/Tidsdiskret systemteori.md",
-    "External/Balder Notes/Notes/Impule Inveriant z-transformation.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/Pipeline.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/Optimization of microarchitecture design.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/Bus Cycle.md",
-    "UNI Notes/Signalbehandling/Bilineær z-transformation.md",
-    "External/Kasper Noter/External/Kasper's Formelsamling",
-    "External/Kasper Noter/External/Jacob's Notes",
-    "External/Kasper Noter/External/Balder",
-    "External/Kasper Noter/External",
-    "External/Kasper Noter/SVG fra Remarkable/interactions page 4.svg",
-    "External/Kasper Noter/SVG fra Remarkable/interactions page 2.svg",
-    "External/Kasper Noter/SVG fra Remarkable/interactions page 5.svg",
-    "External/Kasper Noter/SVG fra Remarkable/interactions page 3.svg",
-    "External/Kasper Noter/SVG fra Remarkable/interactions page 1.svg",
-    "External/Kasper Noter/SVG fra Remarkable/Drawing 2023-09-29 23.38.23.excalidraw.md",
-    "External/Kasper Noter/SVG fra Remarkable",
-    "External/Kasper Noter/Excalidraw/Drawing 2024-01-03 12.17.25.excalidraw.svg",
-    "External/Kasper Noter/Excalidraw/Drawing 2024-01-03 12.17.25.excalidraw.md",
-    "External/Kasper Noter/Excalidraw/Drawing 2024-01-02 20.35.25.excalidraw.md",
-    "External/Kasper Noter/Excalidraw",
-    "External/Balder Notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/2022-loesning.xopp",
-    "External/Balder Notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/reeksamen-2021-loesning.xopp",
-    "External/Balder Notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/reeksamen-2021-loesning.pdf",
-    "External/Balder Notes/Lessons/Semester 3/multivariable-math/Exercises/gamle_eksamensaet/2020-loesning.xopp",
-    "External/Balder Notes/Images/types-of-kinematic-axis.png",
-    "External/Balder Notes/Images/uart.png",
-    "External/Balder Notes/Templates/subject.md",
-    "External/Balder Notes/Templates/Insert Title.md",
-    "External/Balder Notes/Notes/Ækvivalente Kredsløb.md",
-    "External/Balder Notes/Notes/z-transformation.md"
+    "UNI Notes/Billeder/Pasted image 20231208091723.png",
+    "UNI Notes/Billeder/Pasted image 20231208091703.png",
+    "UNI Notes/Billeder/Pasted image 20231208091642.png",
+    "UNI Notes/Billeder/Pasted image 20231208091513.png",
+    "UNI Notes/Billeder/Pasted image 20231208091308.png",
+    "UNI Notes/Billeder/Pasted image 20231208091017.png",
+    "UNI Notes/Billeder/Pasted image 20231208085745.png",
+    "UNI Notes/Signalbehandling/FIR Filtre",
+    "UNI Notes/Datakommunikation/Network Layer",
+    "UNI Notes/Signalbehandling",
+    "UNI Notes/Matematik",
+    "UNI Notes/Datakommunikation",
+    "UNI Notes/Computer arkitektur og operativsystemer",
+    "UNI Notes/Billeder",
+    "UNI Notes",
+    "UNI_Notes/UNI Notes/Signalbehandling/FIR Filtre",
+    "UNI_Notes/UNI Notes/Signalbehandling"
   ]
 }
