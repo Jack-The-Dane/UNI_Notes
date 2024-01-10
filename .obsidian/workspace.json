@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md",
+                "file": "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md",
+                "file": "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md",
+                "file": "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md"
+                "file": "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "cb0329fb963ce16c",
   "lastOpenFiles": [
+    "UNI Notes/Datakommunikation/High-level Data Link Control (HDLC).md",
+    "UNI Notes/Datakommunikation/Data Link Control Services.md",
     "UNI Notes/Datakommunikation/Network Layer/UDP (User Datagram Protocol).md",
     "UNI Notes/Datakommunikation/Network Layer/TCP (Transmission Control Protocol).md",
     "UNI Notes/Datakommunikation/Network Layer/Routing and forwarding.md",
@@ -173,8 +175,6 @@
     "UNI Notes/Datakommunikation/Network Layer/ICMPv4 Query messages.md",
     "UNI Notes/Datakommunikation/Network Layer/Hierarchical Routing.md",
     "UNI Notes/Datakommunikation/Network Layer/HOP and TTL.md",
-    "UNI Notes/Datakommunikation/Network Layer/Fragmentation.md",
-    "UNI Notes/Datakommunikation/Network Layer/Geographical Routing.md",
     "UNI Notes/Billeder/Pasted image 20240108112934.png",
     "UNI Notes/Billeder/Pasted image 20240108112853.png",
     "UNI Notes/Billeder/Pasted image 20240108112714.png",
