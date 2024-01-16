@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Computer arkitektur og operativsystemer/Operating systems.md",
+                "file": "UNI Notes/Computer arkitektur og operativsystemer/Threads and concurrency.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Computer arkitektur og operativsystemer/Operating systems.md",
+                "file": "UNI Notes/Computer arkitektur og operativsystemer/Threads and concurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Computer arkitektur og operativsystemer/Operating systems.md",
+                "file": "UNI Notes/Computer arkitektur og operativsystemer/Threads and concurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Computer arkitektur og operativsystemer/Operating systems.md"
+                "file": "UNI Notes/Computer arkitektur og operativsystemer/Threads and concurrency.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "68e7037977fb269b",
   "lastOpenFiles": [
-    "UNI Notes/Computer arkitektur og operativsystemer/Threads and concurrency.md",
     "UNI Notes/Computer arkitektur og operativsystemer/Operating systems.md",
+    "UNI Notes/Computer arkitektur og operativsystemer/Threads and concurrency.md",
     "UNI Notes/Datakommunikation/I2C Protocol.md",
     "UNI Notes/Datakommunikation/Network Layer/UDP (User Datagram Protocol).md",
     "UNI Notes/Datakommunikation/Network Layer/TCP (Transmission Control Protocol).md",
