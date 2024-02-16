@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68e7037977fb269b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI Notes/Datakommunikation/I2C Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md",
+                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md",
+                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md"
+                "file": "UNI Notes/Datakommunikation/Data Link Control Services.md"
               }
             }
           }
@@ -147,7 +160,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cb0329fb963ce16c",
+  "active": "68e7037977fb269b",
   "lastOpenFiles": [
     "UNI Notes/Datakommunikation/High-level Data Link Control (HDLC).md",
     "UNI Notes/Datakommunikation/Data Link Control Services.md",

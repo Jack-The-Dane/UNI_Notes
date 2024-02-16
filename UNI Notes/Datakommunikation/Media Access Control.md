@@ -121,7 +121,7 @@ The throughput obviously depends on the value of the G value
 • For 1-persistent method, the throughput is approx. 50% (at G=1)
 • For non-persistent method up to 90% (at G between 3 and 8)
 
-### Carrier Sense Multiple Access with Collision Avoidance
+### Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA)
 As we saw, collisions could be detected by energy measurement.
 It is also easy enough in a wired system, where the energy is doubled in
 the event of a collision.
