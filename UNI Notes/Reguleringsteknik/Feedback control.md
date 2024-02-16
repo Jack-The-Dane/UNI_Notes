@@ -18,4 +18,5 @@ Measurement will usually be of such high frequencies that it is not possible to 
 ![[Pasted image 20240216090257.png]]
 
 ## Linearization
-
+![[Pasted image 20240216091931.png]]
+![[Pasted image 20240216092054.png]]
