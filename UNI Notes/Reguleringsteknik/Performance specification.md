@@ -15,7 +15,7 @@ Log is the natural logarithm.
 ![[Pasted image 20240209091900.png]]
 ## Overshoot
 ![[Pasted image 20240209092033.png]]
-
+$M_p$ should be a percentage value, so between 0 and 1.
 ## Frequency and Time specifications
 ![[Pasted image 20240209092132.png]]
 This is only valid for second order systems

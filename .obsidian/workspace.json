@@ -4,155 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "12876c1a6be93e36",
+        "id": "0a292e79a1a9d6e0",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0329fb963ce16c",
+            "id": "fd5d970a88cb69cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md",
+                "file": "UNI Notes/Reguleringsteknik/Steady state tracking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dee79797fab2857b",
+            "id": "6d179395d76de7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Datakommunikation/Media Access Control.md",
+                "file": "UNI Notes/Reguleringsteknik/The Root Locus Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b4d321b2cf8a8dad",
+            "id": "efeffaf23bf5f33b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Computer arkitektur og operativsystemer/The micro-architecture level.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0c70f4ad711b897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Modeling of Dynamical Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a45e0185588252ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Basic system classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eff141abb4a51016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Performance specification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da0c031e05fbfccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Modeling of Dynamical Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26f525472604f141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Open Loop Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d88d24a61535c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Feedback control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "424bf57a249fbf3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Performance specification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44d433a4d1a98d80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Cascade control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "832f5c45b41ab1cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Stability.md",
+                "file": "UNI Notes/Reguleringsteknik/Transfer functions graph.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b960a55660ffc2a4",
@@ -219,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Reguleringsteknik/Cascade control.md",
+                "file": "UNI Notes/Reguleringsteknik/The Root Locus Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Reguleringsteknik/Cascade control.md",
+                "file": "UNI Notes/Reguleringsteknik/The Root Locus Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Reguleringsteknik/Cascade control.md"
+                "file": "UNI Notes/Reguleringsteknik/The Root Locus Method.md"
               }
             }
           }
@@ -282,45 +173,44 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "44d433a4d1a98d80",
+  "active": "6d179395d76de7ef",
   "lastOpenFiles": [
-    "UNI Notes/Billeder/Pasted image 20240216101749.png",
-    "UNI Notes/Billeder/Pasted image 20240216101728.png",
-    "UNI Notes/Reguleringsteknik/Cascade control.md",
-    "UNI Notes/Billeder/Pasted image 20240216101713.png",
-    "UNI Notes/Billeder/Pasted image 20240216100635.png",
-    "UNI Notes/Billeder/Pasted image 20240216100551.png",
-    "UNI Notes/Billeder/Pasted image 20240216100523.png",
-    "UNI Notes/Billeder/Pasted image 20240216100237.png",
-    "conflict-files-obsidian-git.md",
+    "UNI Notes/Reguleringsteknik/Ziegler-Nichols Tuning.md",
+    "UNI Notes/Reguleringsteknik/The P-Controller.md",
+    "UNI Notes/Reguleringsteknik/The PI-controller.md",
+    "UNI Notes/Reguleringsteknik/The Root Locus Method.md",
+    "UNI Notes/Billeder/Pasted image 20240301093640.png",
+    "UNI Notes/Billeder/Pasted image 20240301093627.png",
+    "UNI Notes/Billeder/Pasted image 20240301093615.png",
+    "UNI Notes/Billeder/Pasted image 20240301093207.png",
+    "UNI Notes/Billeder/Pasted image 20240301093148.png",
+    "UNI Notes/Billeder/Pasted image 20240301092838.png",
+    "UNI Notes/Billeder/Pasted image 20240301092344.png",
+    "UNI Notes/Billeder/Pasted image 20240301091756.png",
+    "UNI Notes/Billeder/Pasted image 20240301091627.png",
+    "UNI Notes/Billeder/Pasted image 20240301091249.png",
+    "UNI Notes/Reguleringsteknik/Transfer functions graph.md",
     "UNI Notes/Reguleringsteknik/Performance specification.md",
-    "UNI Notes/Reguleringsteknik/Poles and zeros of state space models.md",
     "UNI Notes/Reguleringsteknik/Steady state tracking.md",
-    "UNI Notes/Billeder/Pasted image 20240216093547.png",
-    "UNI Notes/Billeder/Pasted image 20240216093523.png",
-    "UNI Notes/Billeder/Pasted image 20240216092811.png",
-    "UNI Notes/Billeder/Pasted image 20240216092743.png",
-    "UNI Notes/Reguleringsteknik/Feedback control.md",
-    "UNI Notes/Reguleringsteknik/Open Loop Control.md",
-    "UNI Notes/Reguleringsteknik/Basic system classes.md",
-    "UNI Notes/Reguleringsteknik/Modeling of Dynamical Systems.md",
     "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md",
+    "UNI Notes/Datakommunikation/Media Access Control.md",
+    "UNI Notes/Computer arkitektur og operativsystemer/The micro-architecture level.md",
+    "UNI Notes/Reguleringsteknik/Modeling of Dynamical Systems.md",
+    "UNI Notes/Reguleringsteknik/Basic system classes.md",
+    "UNI Notes/Reguleringsteknik/Open Loop Control.md",
+    "UNI Notes/Reguleringsteknik/Feedback control.md",
+    "UNI Notes/Reguleringsteknik/Cascade control.md",
+    "UNI Notes/Reguleringsteknik/The PID-controller.md",
+    "conflict-files-obsidian-git.md",
+    "UNI Notes/Reguleringsteknik/Poles and zeros of state space models.md",
     "UNI Notes/Reguleringsteknik/Stability.md",
     "UNI Notes/Matematik/Wave equation - Separation of variables.md",
     "UNI Notes/Signalbehandling/Z-transformation.md",
     "UNI Notes/Matematik/Laplace transformation tabel.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/The micro-architecture level.md",
     "UNI Notes/Reguleringsteknik",
     "UNI Notes/Computer arkitektur og operativsystemer/Memory interface.md",
     "UNI Notes/Computer arkitektur og operativsystemer/Pipeline.md",
     "UNI Notes/Computer arkitektur og operativsystemer/Von Neumann architecture.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/The critical-section problem.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/Threads and concurrency.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/Deadlocks.md",
-    "UNI Notes/Datakommunikation/Data Link Control Services.md",
-    "UNI Notes/Datakommunikation/Media Access Control.md",
-    "UNI Notes/Datakommunikation/High-level Data Link Control (HDLC).md",
-    "UNI Notes/Datakommunikation/Data Link Layer.md",
     "UNI Notes/Signalbehandling/FIR Filtre",
     "UNI Notes/Datakommunikation/Network Layer",
     "UNI Notes/Signalbehandling",
