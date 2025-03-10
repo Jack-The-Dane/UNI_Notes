@@ -11,7 +11,7 @@ The roots of a system will move from **open-loop** poles to either **open-loop**
 This method is resistant to errors due to parameter variations, as you can also examine how the poles move when you vary one or more of the parameters from 0 to infnity.
 
 ## Formula of PID controller
-$$K(s) = k_p(1+T_ds + \frac{1}{T_is} = k_p \frac{t_ds² + s+ \frac{1}{T_i}}{s}$$
+$$K(s) = k_p(1+T_ds + \frac{1}{T_is}) = k_p \frac{t_ds² + s+ \frac{1}{T_i}}{s}$$
 It is not possible to choose the location of your pole, only the zeroes.
 
 ## Problem formulation

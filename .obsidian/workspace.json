@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0a292e79a1a9d6e0",
+        "id": "d6f513f3ad66182e",
         "type": "tabs",
         "children": [
           {
-            "id": "fd5d970a88cb69cb",
+            "id": "2d3b30d44fd95a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Notes/Reguleringsteknik/Steady state tracking.md",
+                "file": "UNI Notes/Under-actuated Robotics/Modelling.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6d179395d76de7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/The Root Locus Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efeffaf23bf5f33b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI Notes/Reguleringsteknik/Transfer functions graph.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Modelling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI Notes/Reguleringsteknik/The Root Locus Method.md",
+                "file": "UNI Notes/Algoritmer og Datastrukturer/Prim's Algorithm for Minimum Spanning Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prim's Algorithm for Minimum Spanning Tree"
             }
           },
           {
@@ -127,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI Notes/Reguleringsteknik/The Root Locus Method.md",
+                "file": "UNI Notes/Algoritmer og Datastrukturer/Prim's Algorithm for Minimum Spanning Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prim's Algorithm for Minimum Spanning Tree"
             }
           },
           {
@@ -141,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI Notes/Reguleringsteknik/The Root Locus Method.md"
-              }
+                "file": "UNI Notes/Algoritmer og Datastrukturer/Prim's Algorithm for Minimum Spanning Tree.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prim's Algorithm for Minimum Spanning Tree"
             }
           }
         ]
@@ -163,62 +155,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-matrix:Obsidian Matrix": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6d179395d76de7ef",
+  "active": "2d3b30d44fd95a11",
   "lastOpenFiles": [
-    "UNI Notes/Reguleringsteknik/Ziegler-Nichols Tuning.md",
-    "UNI Notes/Reguleringsteknik/The P-Controller.md",
-    "UNI Notes/Reguleringsteknik/The PI-controller.md",
-    "UNI Notes/Reguleringsteknik/The Root Locus Method.md",
-    "UNI Notes/Billeder/Pasted image 20240301093640.png",
-    "UNI Notes/Billeder/Pasted image 20240301093627.png",
-    "UNI Notes/Billeder/Pasted image 20240301093615.png",
-    "UNI Notes/Billeder/Pasted image 20240301093207.png",
-    "UNI Notes/Billeder/Pasted image 20240301093148.png",
-    "UNI Notes/Billeder/Pasted image 20240301092838.png",
-    "UNI Notes/Billeder/Pasted image 20240301092344.png",
-    "UNI Notes/Billeder/Pasted image 20240301091756.png",
-    "UNI Notes/Billeder/Pasted image 20240301091627.png",
-    "UNI Notes/Billeder/Pasted image 20240301091249.png",
-    "UNI Notes/Reguleringsteknik/Transfer functions graph.md",
-    "UNI Notes/Reguleringsteknik/Performance specification.md",
+    "UNI Notes/Billeder/Pasted image 20250224123634.png",
+    "UNI Notes/Under-actuated Robotics/Modelling.md",
+    "UNI Notes/Under-actuated Robotics",
+    "UNI Notes/Algoritmer og Datastrukturer/Probing.md",
+    "UNI Notes/Robot systems Design/DH algorithm.md",
+    "UNI Notes/Algoritmer og Datastrukturer/Prim's Algorithm for Minimum Spanning Tree.md",
+    "UNI Notes/Algoritmer og Datastrukturer/Dijkstra's Algorithm.md",
+    "UNI Notes/Robot systems Design/RME40003 Week 9 Robot Dynamics Tutorial answers.pdf",
+    "UNI Notes/Algoritmer og Datastrukturer",
+    "UNI Notes/Robot systems Design/Lagrangian dynamics.md",
+    "UNI Notes/Robot systems Design/Inverse Kinematics Questions - answers 2022.pdf",
+    "UNI Notes/Robot systems Design/Inverse kinematics.md",
+    "UNI Notes/Robot systems Design/Robot Dynamics Cheat Sheet.pdf",
+    "UNI Notes/Robot systems Design/Formula Sheet.pdf",
+    "UNI Notes/Statistics/Formulas.md",
+    "UNI Notes/Statistics",
+    "UNI Notes/Matematik/Partial Differential Equations.md",
+    "UNI Notes/Matematik/Laplace transformation tabel.md",
+    "UNI Notes/Robot systems Design",
+    "External/Balder/Notes/Rotation.md",
+    "External/Balder/Notes/Rotational Matrices.md",
+    "External/Balder/Lessons/Semester 2/Kinematik/Lecture 7 - DH Parameters and Forward Kinematics.pdf",
+    "External/Balder/Lessons/Semester 2/Kinematik/Lecture 5 - Other Orientation Representations.pdf",
+    "External/Kasper/1 Formelsamlinger/Formelsamling Calculus.md",
+    "UNI Notes/Tips and tricks.md",
+    "UNI Notes/Matematik/Untitled.md",
     "UNI Notes/Reguleringsteknik/Steady state tracking.md",
-    "UNI Notes/Datakommunikation/Point-to-Point Protocol (PPP).md",
-    "UNI Notes/Datakommunikation/Media Access Control.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/The micro-architecture level.md",
     "UNI Notes/Reguleringsteknik/Modeling of Dynamical Systems.md",
     "UNI Notes/Reguleringsteknik/Basic system classes.md",
-    "UNI Notes/Reguleringsteknik/Open Loop Control.md",
+    "UNI Notes/Reguleringsteknik/Full Order Observer.md",
     "UNI Notes/Reguleringsteknik/Feedback control.md",
-    "UNI Notes/Reguleringsteknik/Cascade control.md",
-    "UNI Notes/Reguleringsteknik/The PID-controller.md",
-    "conflict-files-obsidian-git.md",
-    "UNI Notes/Reguleringsteknik/Poles and zeros of state space models.md",
-    "UNI Notes/Reguleringsteknik/Stability.md",
-    "UNI Notes/Matematik/Wave equation - Separation of variables.md",
-    "UNI Notes/Signalbehandling/Z-transformation.md",
-    "UNI Notes/Matematik/Laplace transformation tabel.md",
-    "UNI Notes/Reguleringsteknik",
-    "UNI Notes/Computer arkitektur og operativsystemer/Memory interface.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/Pipeline.md",
-    "UNI Notes/Computer arkitektur og operativsystemer/Von Neumann architecture.md",
-    "UNI Notes/Signalbehandling/FIR Filtre",
-    "UNI Notes/Datakommunikation/Network Layer",
-    "UNI Notes/Signalbehandling",
-    "UNI Notes/Matematik",
-    "UNI Notes/Datakommunikation",
-    "UNI Notes/Computer arkitektur og operativsystemer",
-    "UNI Notes/Billeder",
-    "UNI Notes",
-    "UNI_Notes/UNI Notes/Signalbehandling/FIR Filtre"
+    "UNI Notes/Reguleringsteknik/State Feedback and pole assignment.md",
+    "UNI Notes/Reguleringsteknik/Observer Based Control.md",
+    "UNI Notes/Reguleringsteknik/Emulation.md",
+    "UNI Notes/Reguleringsteknik/Anti-Windup in observer based designs.md",
+    "UNI Notes/Reguleringsteknik/Controllable Canonical Form.md",
+    "UNI Notes/Billeder/Pasted image 20240223090334.png",
+    "UNI Notes/Billeder/Pasted image 20240223083412.png",
+    "UNI Notes/Billeder/Pasted image 20240503132928.png",
+    "UNI Notes/Billeder/Pasted image 20240503131650.png",
+    "UNI Notes/Billeder/Pasted image 20240503131604.png",
+    "UNI Notes/Billeder/Pasted image 20240503131451.png",
+    "UNI Notes/Billeder/Pasted image 20240503125630.png",
+    "UNI Notes/Billeder/Pasted image 20240503124714.png",
+    "UNI Notes/Billeder/Pasted image 20240503124248.png",
+    "UNI Notes/Billeder/Pasted image 20240503123438.png"
   ]
 }
