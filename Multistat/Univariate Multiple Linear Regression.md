@@ -92,8 +92,8 @@ $$(\hat{\beta}-\beta_{0})^T \frac{z^Tz}{\hat{\sigma^2}(r+1)}(\hat{\beta}-\beta_{
 Can it be done with less predictor variables
 $$ \beta = 
 \begin{bmatrix}
-\beta_(1) \\
-\beta_(2)
+\beta_{1} \\
+\beta_{2}
 \end{bmatrix}
 $$
 $\beta_{1}$ are the important beta variables
