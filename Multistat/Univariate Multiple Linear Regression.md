@@ -16,12 +16,12 @@ $$
 \begin{bmatrix}
 Y_1 \\
 Y_2 \\
-\: \\
+: \\
 Y_n
 \end{bmatrix}
  = 
 \begin{bmatrix}
-1 & z_{11} & z_{12} & \dots & z_{1r \\
+1 & z_{11} & z_{12} & \dots & z_{1r} \\
 1 &  &  &  &  \\
 1 &  &  &  &  \\
 1 &  &  &  & 
@@ -29,7 +29,7 @@ Y_n
 \begin{bmatrix}
 \beta_0 \\
 \beta_1 \\
-\: \\
+: \\
 \beta_r
 \end{bmatrix}
 +

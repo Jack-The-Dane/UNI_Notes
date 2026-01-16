@@ -29,7 +29,7 @@ Left of plus is called SSWithin (Difference between samples and their population
 
 ## MANOVA TABEL
 $$\begin{bmatrix}
-\text{Variation} & SS & df & $\hat{\Sigma}$ \\
+\text{Variation} & SS & df & \hat{\Sigma} \\
 \text{between} & SSB & g-1 & S_B = SSB/(g-1) \\
 \text{Within} & SSW & n-g & S_W = SSW/(n-g) \\
 \text{Total} & SST & n-1 & S_T = SST/(n-1)
